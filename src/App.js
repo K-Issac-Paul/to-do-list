@@ -642,7 +642,7 @@ const styles = {
     boxShadow: '0 10px 30px rgba(0, 0, 0, 0.3)'
   },
   formInput: {
-    width: '100%',
+    width: '95%',
     background: '#374151',
     border: '1px solid #4b5563',
     borderRadius: '0.5rem',
@@ -652,7 +652,7 @@ const styles = {
     marginBottom: '1rem'
   },
   formTextarea: {
-    width: '100%',
+    width: '95%',
     background: '#374151',
     border: '1px solid #4b5563',
     borderRadius: '0.5rem',
